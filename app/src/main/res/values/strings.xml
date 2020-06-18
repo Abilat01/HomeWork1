@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="editText">Этот текст должно быть видно на активити №2</string>
+    <string name="goActivity">Рванули на активити №2</string>
+    <string name="BtnTwo">Просто кнопка</string>
+
+</resources>
